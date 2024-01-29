@@ -3,7 +3,7 @@ LabSOM
 
 LabSOM (Self-Organizing Maps Laboratory)
 
-If needed, remove .pdf extension.
+Download and extract Release*.zip file.
 
 Instructional videos at: https://www.youtube.com/playlist?list=PLOjAg8MbeIzRni15XLzVA1RmIa1vxwCzi
 
