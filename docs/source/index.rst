@@ -1,4 +1,4 @@
-Welcome to LabSOM's Turorials!
+Welcome to LabSOM's Tutorials!
 ===================================
 
 **LabSOM** is a tool for harnessing self-organizing maps to knowlegde discovery.
